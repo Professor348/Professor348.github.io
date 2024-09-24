@@ -6,8 +6,15 @@
     <description>Recent content in Index on DanTheCoder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Sep 2024 16:21:40 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 19:21:44 -0400</lastBuildDate>
     <atom:link href="https://professor348.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robot Arm</title>
+      <link>https://professor348.github.io/posts/robot-arm/</link>
+      <pubDate>Tue, 24 Sep 2024 19:21:44 -0400</pubDate>
+      <guid>https://professor348.github.io/posts/robot-arm/</guid>
+      <description>Introduction This page is to document a project I did following a tutorial from HowToMechatronics.g</description>
+    </item>
     <item>
       <title>Documentation of this website</title>
       <link>https://professor348.github.io/posts/website/</link>

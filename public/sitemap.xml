@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://professor348.github.io/posts/website/</loc>
-    <lastmod>2024-09-23T16:21:40-04:00</lastmod>
-  </url><url>
     <loc>https://professor348.github.io/posts/</loc>
+    <lastmod>2024-09-24T19:21:44-04:00</lastmod>
+  </url><url>
+    <loc>https://professor348.github.io/posts/robot-arm/</loc>
+    <lastmod>2024-09-24T19:21:44-04:00</lastmod>
+  </url><url>
+    <loc>https://professor348.github.io/posts/website/</loc>
     <lastmod>2024-09-23T16:21:40-04:00</lastmod>
   </url><url>
     <loc>https://professor348.github.io/about/</loc>
