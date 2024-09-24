@@ -1,6 +1,6 @@
 +++
-title = 'Website'
-date = 2024-09-23T21:10:59-04:00
+title = 'Documentation of this website'
+date = 2024-09-23T16:21:40-04:00
 draft = false
 +++
 

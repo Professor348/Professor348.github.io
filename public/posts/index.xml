@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DanTheCoder</title>
-    <link>https://Professor348.github.io/posts/</link>
+    <link>https://professor348.github.io/posts/</link>
     <description>Recent content in Posts on DanTheCoder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2024 21:10:59 -0400</lastBuildDate>
-    <atom:link href="https://Professor348.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Sep 2024 16:21:40 -0400</lastBuildDate>
+    <atom:link href="https://professor348.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Website</title>
-      <link>https://Professor348.github.io/posts/website/</link>
-      <pubDate>Mon, 23 Sep 2024 21:10:59 -0400</pubDate>
-      <guid>https://Professor348.github.io/posts/website/</guid>
+      <title>Documentation of this website</title>
+      <link>https://professor348.github.io/posts/website/</link>
+      <pubDate>Mon, 23 Sep 2024 16:21:40 -0400</pubDate>
+      <guid>https://professor348.github.io/posts/website/</guid>
       <description>Introduction This page is to document the development of this website. It will by no means be completely exhaustive, and will likely only be updated occasionally when a large change is made to the site.</description>
     </item>
   </channel>

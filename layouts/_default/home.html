@@ -1,0 +1,26 @@
+---
+title: "Home"
+date: 2024-09-22T17:17:43-04:00
+draft: false
+---
+
+{{ define "main" }}
+  <main aria-role="main">
+    <header class="home-page-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle.byWeight }}
+        <span class="subtitle">{{ . }}</span>
+      {{ end }}
+    </header>
+    <div class="home-page-content">
+      <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+      {{ .Content }}
+    </div>
+    <div>
+      {{ range first 10 .Site.RegularPages }}
+        {{ .Render "summary" }}
+      {{ end }}
+    </div>
+  </main>
+{{ end }}
+
