@@ -1,0 +1,4 @@
+baseURL = 'https://Professor348.github.io/'
+languageCode = 'en-us'
+title = 'DanTheCoder'
+theme = 'archie-solarized'
