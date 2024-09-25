@@ -6,15 +6,8 @@
     <description>Recent content in Index on DanTheCoder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Sep 2024 19:21:44 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 16:21:40 -0400</lastBuildDate>
     <atom:link href="https://professor348.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Robot Arm</title>
-      <link>https://professor348.github.io/posts/robot-arm/</link>
-      <pubDate>Tue, 24 Sep 2024 19:21:44 -0400</pubDate>
-      <guid>https://professor348.github.io/posts/robot-arm/</guid>
-      <description>This page is to document a project I did following a tutorial from HowToMechatronics.</description>
-    </item>
     <item>
       <title>Documentation of this website</title>
       <link>https://professor348.github.io/posts/website/</link>
@@ -27,7 +20,7 @@
       <link>https://professor348.github.io/about/</link>
       <pubDate>Mon, 23 Sep 2024 16:19:40 -0400</pubDate>
       <guid>https://professor348.github.io/about/</guid>
-      <description> Introduction Hi, I&amp;rsquo;m DanTheCoder, also kown as Daniel! I live in the USA and doing dual enrollment online with Liberty University for my last two years of high school.&#xA;Hobbies I enjoy a wide variety of activities, including but not limited to:&#xA;Programming Electronics (Arduinos, circuitry, etc.) PC Building (Only theoretical at this point) Cubing (Solving Rubix Cubes) Gaming (Minecraft, Trailmakers, World of Tanks) </description>
+      <description> Introduction Hi, I&amp;rsquo;m DanTheCoder, also kown as Daniel! I live in the USA and am currently doing dual enrollment online with Liberty University.&#xA;Hobbies I enjoy a wide variety of activities, including but not limited to:&#xA;Programming Electronics (Arduinos, circuitry, etc.) PC Building (Only theoretical at this point) Cubing (Solving Rubix Cubes) Gaming (Minecraft, Trailmakers, World of Tanks) </description>
     </item>
   </channel>
 </rss>

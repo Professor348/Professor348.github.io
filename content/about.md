@@ -7,7 +7,7 @@ draft = false
 
 ## Introduction
 Hi, I'm DanTheCoder, also kown as Daniel! \
-I live in the USA and doing dual enrollment online with Liberty University for my last two years of high school.
+I live in the USA and am currently doing dual enrollment online with Liberty University.
 
 ## Hobbies
 I enjoy a wide variety of activities, including but not limited to:
