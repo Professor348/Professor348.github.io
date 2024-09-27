@@ -1,4 +1,4 @@
-baseurl = "https://professor348.github.io"
+baseurl = "https://professor348.github.io/"
 languageCode = "en-us"
 theme = "archie-solarized"
 buildDrafts = false
@@ -26,7 +26,7 @@ pygmentscodefencesguesssyntax = true
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
   centerTheme = true
