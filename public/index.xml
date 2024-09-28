@@ -9,18 +9,18 @@
     <lastBuildDate>Mon, 23 Sep 2024 16:21:40 -0400</lastBuildDate>
     <atom:link href="https://professor348.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Documentation of this website</title>
+      <title>Documentation of Professor348.github.io</title>
       <link>https://professor348.github.io/posts/website/</link>
       <pubDate>Mon, 23 Sep 2024 16:21:40 -0400</pubDate>
       <guid>https://professor348.github.io/posts/website/</guid>
-      <description>Introduction This page is to document the development of this website. It will by no means be completely exhaustive, and will likely only be updated occasionally when a large change is made to the site.</description>
+      <description>This post documents the development of this website. In it, you will find links to all the resources and softwares that I used to build and host this site, as well as some of the external learning resources used.&#xA;Resources Used </description>
     </item>
     <item>
       <title>About Me</title>
       <link>https://professor348.github.io/about/</link>
       <pubDate>Mon, 23 Sep 2024 16:19:40 -0400</pubDate>
       <guid>https://professor348.github.io/about/</guid>
-      <description> Introduction Hi, I&amp;rsquo;m DanTheCoder, also kown as Daniel! I live in the USA and am currently doing dual enrollment online with Liberty University.&#xA;Hobbies I enjoy a wide variety of activities, including but not limited to:&#xA;Programming Electronics (Arduinos, circuitry, etc.) PC Building (Only theoretical at this point) Cubing (Solving Rubix Cubes) Gaming (Minecraft, Trailmakers, World of Tanks) </description>
+      <description> Hi, I&amp;rsquo;m DanTheCoder, also kown as Daniel! I live in the USA and am currently doing dual enrollment online with Liberty University.&#xA;Hobbies I enjoy a wide variety of activities, including but not limited to:&#xA;Reading (Fiction, Historical Fiction) Programming (Codingame.com, Khan Academy) Electronics (Arduinos, circuitry, etc.) PC Building (Only theoretical at this point) Cubing (Solving Rubix Cubes) Gaming (Minecraft, Trailmakers, World of Tanks) </description>
     </item>
   </channel>
 </rss>

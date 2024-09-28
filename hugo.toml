@@ -8,6 +8,12 @@ pygmentsStyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+
 [params]
   mode="toggle"
   useCDN=true

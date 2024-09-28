@@ -5,13 +5,13 @@ draft = false
 +++
 ---
 
-## Introduction
 Hi, I'm DanTheCoder, also kown as Daniel! \
 I live in the USA and am currently doing dual enrollment online with Liberty University.
 
 ## Hobbies
 I enjoy a wide variety of activities, including but not limited to:
-- Programming
+- Reading (Fiction, Historical Fiction)
+- Programming (Codingame.com, Khan Academy)
 - Electronics (Arduinos, circuitry, etc.)
 - PC Building (Only theoretical at this point)
 - Cubing (Solving Rubix Cubes)
