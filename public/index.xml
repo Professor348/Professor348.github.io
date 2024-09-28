@@ -13,7 +13,7 @@
       <link>https://professor348.github.io/posts/website/</link>
       <pubDate>Mon, 23 Sep 2024 16:21:40 -0400</pubDate>
       <guid>https://professor348.github.io/posts/website/</guid>
-      <description>This post documents the development of this website. In it, you will find links to all the resources and softwares that I used to build and host this site, as well as some of the external learning resources used.&#xA;Resources Used </description>
+      <description>This website started as a sort of fun project to see if I could build a site using Hugo that actually looked decent. The inspiration came from Hyacinthe Cartiaux&amp;rsquo;s website, which I stumbled upon while looking for documentation on some alpha features of the game Turing Complete. This post&amp;rsquo;s purpose is to document the development of this website as a sort of reference for me to look back on, and for other people to gain inspiration from in their own projects.</description>
     </item>
     <item>
       <title>About Me</title>
