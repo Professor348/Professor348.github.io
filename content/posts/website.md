@@ -11,4 +11,6 @@ This post's purpose is to document the development of this website. as a sort of
 In it, you will find links to all the resources and softwares that I used to build and host this site.
 In addition, you will find some of the external learning resources that I used throughout the development of this site.
 
-## Resources Used
+## Resources and Softwares Used
+- [Hugo](https://gohugo.io/)
+- [Github Pages](https://pages.github.com/)
