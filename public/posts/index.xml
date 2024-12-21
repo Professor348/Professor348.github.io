@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DanTheCoder</title>
-    <link>https://professor348.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on DanTheCoder</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Dec 2024 13:18:15 -0500</lastBuildDate>
-    <atom:link href="https://professor348.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quantra - A Superscalar CPU in Turing Complete</title>
-      <link>https://professor348.github.io/posts/quantra/</link>
+      <link>http://localhost:1313/posts/quantra/</link>
       <pubDate>Sat, 21 Dec 2024 13:18:15 -0500</pubDate>
-      <guid>https://professor348.github.io/posts/quantra/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;Quantra is a CPU that I built in the logic simulator &lt;a href=&#34;https://turingcomplete.game&#34;&gt;Turing Complete&lt;/a&gt;.&#xA;It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline.&#xA;&lt;br/&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;features&#34;&gt;Features:&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;32-bit instruction width&lt;/li&gt;&#xA;&lt;li&gt;16-bit data width&lt;/li&gt;&#xA;&lt;li&gt;16 GPRs (General Purpose Registers) with 4 write ports and 8 read ports&lt;/li&gt;&#xA;&lt;li&gt;Four 3-stage pipelines capable of executing instructions in parallel&lt;/li&gt;&#xA;&lt;li&gt;Approximately 65KB of RAM (Random Access Memory)&lt;/li&gt;&#xA;&lt;li&gt;Approximately 65KB of persistent SSD (Solid State Drive) storage&lt;/li&gt;&#xA;&lt;li&gt;The ability to load binary data from a file on my computer&lt;/li&gt;&#xA;&lt;li&gt;The ability to execute instructions from memory&lt;/li&gt;&#xA;&lt;li&gt;An ALU (Arithmetic &amp;amp; Logic Unit) capable of performing 10 different calculations&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AND&lt;/li&gt;&#xA;&lt;li&gt;NAND (Not AND)&lt;/li&gt;&#xA;&lt;li&gt;OR&lt;/li&gt;&#xA;&lt;li&gt;NOR (Not OR)&lt;/li&gt;&#xA;&lt;li&gt;XOR (eXclusive OR)&lt;/li&gt;&#xA;&lt;li&gt;Addition&lt;/li&gt;&#xA;&lt;li&gt;Subtraction&lt;/li&gt;&#xA;&lt;li&gt;Logical Shift Left (LSL)&lt;/li&gt;&#xA;&lt;li&gt;Logical Shift Right (LSR)&lt;/li&gt;&#xA;&lt;li&gt;Compare (Compares two numbers and stores to the flags register)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;An 80x24 character console screen capable of displaying 8-bit ASCII characters&lt;/li&gt;&#xA;&lt;li&gt;An 160x120 pixel screen&lt;/li&gt;&#xA;&lt;li&gt;A keyboard input to read keystrokes from my physical keyboard&lt;/li&gt;&#xA;&lt;li&gt;A time component capable of reading 64-bit UNIX time in four 16-bit segments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;layout&#34;&gt;Layout:&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://professor348.github.io/posts/quantra.png&#34; alt=&#34;Quantra 16-bit CPU&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/quantra/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Quantra is a CPU that I built in the logic simulator &lt;a href=&#34;https://turingcomplete.game&#34;&gt;Turing Complete&lt;/a&gt;.&#xA;It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Robot Arm</title>
+      <link>http://localhost:1313/posts/robot-arm/</link>
+      <pubDate>Tue, 24 Sep 2024 19:21:44 -0400</pubDate>
+      <guid>http://localhost:1313/posts/robot-arm/</guid>
+      <description>&lt;p&gt;This page is to document a project I did following a tutorial from HowToMechatronics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Documentation of Professor348.github.io</title>
-      <link>https://professor348.github.io/posts/website/</link>
+      <link>http://localhost:1313/posts/website/</link>
       <pubDate>Mon, 23 Sep 2024 16:21:40 -0400</pubDate>
-      <guid>https://professor348.github.io/posts/website/</guid>
-      <description>&lt;p&gt;This website started as a sort of fun project to see if I could build a site using Hugo that actually looked decent. The inspiration came from &lt;a href=&#34;https://hcartiaux.github.io/&#34;&gt;Hyacinthe Cartiaux&amp;rsquo;s website&lt;/a&gt;, which I stumbled upon while looking for documentation on some alpha features of the game &lt;a href=&#34;https://store.steampowered.com/app/1444480/Turing_Complete/&#34;&gt;Turing Complete&lt;/a&gt;.&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;This post&amp;rsquo;s purpose is to document the development of this website. as a sort of reference for me to look back on, and for other people to gain inspiration from in their own projects.&#xA;In it, you will find links to all the resources and softwares that I used to build and host this site.&#xA;In addition, you will find some of the external learning resources that I used throughout the development of this site.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/website/</guid>
+      <description>&lt;p&gt;This post&amp;rsquo;s purpose is to document the development of this website. as a sort of reference for me to look back on, and for other people to gain inspiration from in their own projects.&#xA;In it, you will find links to all the resources and softwares that I used to build and host this site.&#xA;In addition, you will find some of the external learning resources that I used throughout the development of this site.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

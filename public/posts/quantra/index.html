@@ -1,47 +1,15 @@
 <!DOCTYPE html>
-<html><head lang="en">
+<html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Quantra - A Superscalar CPU in Turing Complete - DanTheCoder</title><meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="
 Quantra is a CPU that I built in the logic simulator Turing Complete.
-It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline.
-
-Features:
-
-32-bit instruction width
-16-bit data width
-16 GPRs (General Purpose Registers) with 4 write ports and 8 read ports
-Four 3-stage pipelines capable of executing instructions in parallel
-Approximately 65KB of RAM (Random Access Memory)
-Approximately 65KB of persistent SSD (Solid State Drive) storage
-The ability to load binary data from a file on my computer
-The ability to execute instructions from memory
-An ALU (Arithmetic &amp; Logic Unit) capable of performing 10 different calculations
-
-AND
-NAND (Not AND)
-OR
-NOR (Not OR)
-XOR (eXclusive OR)
-Addition
-Subtraction
-Logical Shift Left (LSL)
-Logical Shift Right (LSR)
-Compare (Compares two numbers and stores to the flags register)
-
-
-An 80x24 character console screen capable of displaying 8-bit ASCII characters
-An 160x120 pixel screen
-A keyboard input to read keystrokes from my physical keyboard
-A time component capable of reading 64-bit UNIX time in four 16-bit segments
-
-Layout:
-" />
+It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline." />
 	<meta property="og:image" content=""/>
-	<meta property="og:url" content="https://professor348.github.io/posts/quantra/">
+	<meta property="og:url" content="http://localhost:1313/posts/quantra/">
   <meta property="og:site_name" content="DanTheCoder">
   <meta property="og:title" content="Quantra - A Superscalar CPU in Turing Complete">
-  <meta property="og:description" content="Quantra is a CPU that I built in the logic simulator Turing Complete. It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline. Features: 32-bit instruction width 16-bit data width 16 GPRs (General Purpose Registers) with 4 write ports and 8 read ports Four 3-stage pipelines capable of executing instructions in parallel Approximately 65KB of RAM (Random Access Memory) Approximately 65KB of persistent SSD (Solid State Drive) storage The ability to load binary data from a file on my computer The ability to execute instructions from memory An ALU (Arithmetic &amp; Logic Unit) capable of performing 10 different calculations AND NAND (Not AND) OR NOR (Not OR) XOR (eXclusive OR) Addition Subtraction Logical Shift Left (LSL) Logical Shift Right (LSR) Compare (Compares two numbers and stores to the flags register) An 80x24 character console screen capable of displaying 8-bit ASCII characters An 160x120 pixel screen A keyboard input to read keystrokes from my physical keyboard A time component capable of reading 64-bit UNIX time in four 16-bit segments Layout:">
+  <meta property="og:description" content="Quantra is a CPU that I built in the logic simulator Turing Complete. It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
@@ -50,16 +18,16 @@ Layout:
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Quantra - A Superscalar CPU in Turing Complete">
-  <meta name="twitter:description" content="Quantra is a CPU that I built in the logic simulator Turing Complete. It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline. Features: 32-bit instruction width 16-bit data width 16 GPRs (General Purpose Registers) with 4 write ports and 8 read ports Four 3-stage pipelines capable of executing instructions in parallel Approximately 65KB of RAM (Random Access Memory) Approximately 65KB of persistent SSD (Solid State Drive) storage The ability to load binary data from a file on my computer The ability to execute instructions from memory An ALU (Arithmetic &amp; Logic Unit) capable of performing 10 different calculations AND NAND (Not AND) OR NOR (Not OR) XOR (eXclusive OR) Addition Subtraction Logical Shift Left (LSL) Logical Shift Right (LSR) Compare (Compares two numbers and stores to the flags register) An 80x24 character console screen capable of displaying 8-bit ASCII characters An 160x120 pixel screen A keyboard input to read keystrokes from my physical keyboard A time component capable of reading 64-bit UNIX time in four 16-bit segments Layout:">
-<script src="https://professor348.github.io/js/feather.min.js"></script>
+  <meta name="twitter:description" content="Quantra is a CPU that I built in the logic simulator Turing Complete. It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline.">
+<script src="http://localhost:1313/js/feather.min.js"></script>
 	
 	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
 
 	
-	<link rel="stylesheet" type="text/css" media="screen" href="https://professor348.github.io/css/main.d8452325ddf6e71bfb8f16bdf100bf1cb216558b95bf3c12d39702bb352c8a3c.css" />
-		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://professor348.github.io/css/dark.57f68c77270de4c4a9eea3ae32572a80484c8645b38d442cefba6e2e1d36f414.css"  />
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.d8452325ddf6e71bfb8f16bdf100bf1cb216558b95bf3c12d39702bb352c8a3c.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://localhost:1313/css/dark.57f68c77270de4c4a9eea3ae32572a80484c8645b38d442cefba6e2e1d36f414.css"  />
 	
 
 	
@@ -87,7 +55,7 @@ Layout:
 <body>
         <div class="content"><header>
 	<div class="main">
-		<a href="https://professor348.github.io/">DanTheCoder</a>
+		<a href="http://localhost:1313/">DanTheCoder</a>
 	</div>
 	<nav>
 		
@@ -98,7 +66,7 @@ Layout:
 		<a href="/posts">Posts</a> |
 		
 		<span id="dark-mode-toggle" onclick="toggleTheme()"></span>
-		<script src="https://professor348.github.io/js/themetoggle.js"></script>
+		<script src="http://localhost:1313/js/themetoggle.js"></script>
 		
 	</nav>
 </header>
@@ -116,8 +84,8 @@ Layout:
 		<section class="body">
 			<hr>
 <p>Quantra is a CPU that I built in the logic simulator <a href="https://turingcomplete.game">Turing Complete</a>.
-It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline.
-<br/></p>
+It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline.</p>
+<br/>
 <h1 id="features">Features:</h1>
 <ul>
 <li>32-bit instruction width</li>
@@ -166,7 +134,6 @@ It is based on the Allegro architecture that the campaign teaches you, but is he
 <li>SSD</li>
 <li>File loader</li>
 </ol>
-
 		</section>
 
 		<div class="post-tags">
@@ -183,8 +150,6 @@ It is based on the Allegro architecture that the campaign teaches you, but is he
       href="https://github.com/hcartiaux/hugo-theme-archie-solarized">Archie Solarized Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
   </div>
 </footer>
-
-
 </div>
     </body>
 </html>

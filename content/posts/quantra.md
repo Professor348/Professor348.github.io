@@ -8,6 +8,7 @@ draft = false
 
 Quantra is a CPU that I built in the logic simulator [Turing Complete](https://turingcomplete.game).
 It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline.
+<!--more-->
 <br/>
 
 # Features:
