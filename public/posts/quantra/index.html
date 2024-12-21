@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Quantra - A Superscalar CPU in Turing Complete - DanTheCoder</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="
+Quantra is a CPU that I built in the logic simulator Turing Complete.
+
+
+Features:
+
+32-bit instruction width
+16-bit data width
+16 GPRs (General Purpose Registers) with 4 write ports and 8 read ports
+Four 3-stage pipelines capable of executing instructions in parallel
+Approximately 65KB of RAM (Random Access Memory)
+Approximately 65KB of persistent SSD (Solid State Drive) storage
+The ability to load binary data from a file on my computer
+The ability to execute instructions from memory
+An ALU (Arithmetic &amp; Logic Unit) capable of performing 10 different calculations
+
+AND
+NAND (Not AND)
+OR
+NOR (Not OR)
+XOR (eXclusive OR)
+Addition
+Subtraction
+Logical Shift Left (LSL)
+Logical Shift Right (LSR)
+Compare (Compares two numbers and stores to the flags register)
+
+
+An 80x24 character console screen capable of displaying 8-bit ASCII characters
+An 160x120 pixel screen
+A keyboard input to read keystrokes from my physical keyboard
+A time component capable of reading 64-bit UNIX time in four 16-bit segments
+" />
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content="http://localhost:1313/posts/quantra/">
+  <meta property="og:site_name" content="DanTheCoder">
+  <meta property="og:title" content="Quantra - A Superscalar CPU in Turing Complete">
+  <meta property="og:description" content="Quantra is a CPU that I built in the logic simulator Turing Complete. Features: 32-bit instruction width 16-bit data width 16 GPRs (General Purpose Registers) with 4 write ports and 8 read ports Four 3-stage pipelines capable of executing instructions in parallel Approximately 65KB of RAM (Random Access Memory) Approximately 65KB of persistent SSD (Solid State Drive) storage The ability to load binary data from a file on my computer The ability to execute instructions from memory An ALU (Arithmetic &amp; Logic Unit) capable of performing 10 different calculations AND NAND (Not AND) OR NOR (Not OR) XOR (eXclusive OR) Addition Subtraction Logical Shift Left (LSL) Logical Shift Right (LSR) Compare (Compares two numbers and stores to the flags register) An 80x24 character console screen capable of displaying 8-bit ASCII characters An 160x120 pixel screen A keyboard input to read keystrokes from my physical keyboard A time component capable of reading 64-bit UNIX time in four 16-bit segments">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-12-21T13:18:15-05:00">
+    <meta property="article:modified_time" content="2024-12-21T13:18:15-05:00">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Quantra - A Superscalar CPU in Turing Complete">
+  <meta name="twitter:description" content="Quantra is a CPU that I built in the logic simulator Turing Complete. Features: 32-bit instruction width 16-bit data width 16 GPRs (General Purpose Registers) with 4 write ports and 8 read ports Four 3-stage pipelines capable of executing instructions in parallel Approximately 65KB of RAM (Random Access Memory) Approximately 65KB of persistent SSD (Solid State Drive) storage The ability to load binary data from a file on my computer The ability to execute instructions from memory An ALU (Arithmetic &amp; Logic Unit) capable of performing 10 different calculations AND NAND (Not AND) OR NOR (Not OR) XOR (eXclusive OR) Addition Subtraction Logical Shift Left (LSL) Logical Shift Right (LSR) Compare (Compares two numbers and stores to the flags register) An 80x24 character console screen capable of displaying 8-bit ASCII characters An 160x120 pixel screen A keyboard input to read keystrokes from my physical keyboard A time component capable of reading 64-bit UNIX time in four 16-bit segments">
+<script src="http://localhost:1313/js/feather.min.js"></script>
+	
+	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.d8452325ddf6e71bfb8f16bdf100bf1cb216558b95bf3c12d39702bb352c8a3c.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://localhost:1313/css/dark.57f68c77270de4c4a9eea3ae32572a80484c8645b38d442cefba6e2e1d36f414.css"  />
+	
+
+	
+	
+
+	
+	
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css">
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js"></script>
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+		<script>
+			document.addEventListener("DOMContentLoaded", function() {
+					renderMathInElement(document.body, {
+							delimiters: [
+									{left: "$$", right: "$$", display: true},
+									{left: "$", right: "$", display: false}
+							]
+					});
+			});
+		</script>
+	
+
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="http://localhost:1313/">DanTheCoder</a>
+	</div>
+	<nav>
+		
+		<a href="/">Home</a> |
+		
+		<a href="/about">About</a> |
+		
+		<a href="/posts">Posts</a> |
+		
+		<span id="dark-mode-toggle" onclick="toggleTheme()"></span>
+		<script src="http://localhost:1313/js/themetoggle.js"></script>
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">Quantra - A Superscalar CPU in Turing Complete</h1>
+			<div class="meta">Posted on Dec 21, 2024</div>
+		</div>
+		
+
+		
+
+		<section class="body">
+			<hr>
+<p>Quantra is a CPU that I built in the logic simulator <a href="https://turingcomplete.game">Turing Complete</a>.
+<br/>
+<image src="content/images/quantra.png" title="Quantra CPU" width="auto"></p>
+<h1 id="features">Features:</h1>
+<ul>
+<li>32-bit instruction width</li>
+<li>16-bit data width</li>
+<li>16 GPRs (General Purpose Registers) with 4 write ports and 8 read ports</li>
+<li>Four 3-stage pipelines capable of executing instructions in parallel</li>
+<li>Approximately 65KB of RAM (Random Access Memory)</li>
+<li>Approximately 65KB of persistent SSD (Solid State Drive) storage</li>
+<li>The ability to load binary data from a file on my computer</li>
+<li>The ability to execute instructions from memory</li>
+<li>An ALU (Arithmetic &amp; Logic Unit) capable of performing 10 different calculations
+<ul>
+<li>AND</li>
+<li>NAND (Not AND)</li>
+<li>OR</li>
+<li>NOR (Not OR)</li>
+<li>XOR (eXclusive OR)</li>
+<li>Addition</li>
+<li>Subtraction</li>
+<li>Logical Shift Left (LSL)</li>
+<li>Logical Shift Right (LSR)</li>
+<li>Compare (Compares two numbers and stores to the flags register)</li>
+</ul>
+</li>
+<li>An 80x24 character console screen capable of displaying 8-bit ASCII characters</li>
+<li>An 160x120 pixel screen</li>
+<li>A keyboard input to read keystrokes from my physical keyboard</li>
+<li>A time component capable of reading 64-bit UNIX time in four 16-bit segments</li>
+</ul>
+
+		</section>
+
+		<div class="post-tags">
+			
+			
+			
+		</div>
+		</article>
+</main>
+<footer>
+  <div style="display:flex"></div>
+  <div class="footer-info">
+    2024  <a
+      href="https://github.com/hcartiaux/hugo-theme-archie-solarized">Archie Solarized Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
+  </div>
+</footer>
+</div>
+    </body>
+</html>
