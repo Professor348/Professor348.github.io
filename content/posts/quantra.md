@@ -7,8 +7,8 @@ draft = false
 ---
 
 Quantra is a CPU that I built in the logic simulator [Turing Complete](https://turingcomplete.game).
+It is based on the Allegro architecture that the campaign teaches you, but is heavily modified from this baseline.
 <br/>
-<image src="content/images/quantra.png" title="Quantra CPU" width="auto">
 
 # Features:
 - 32-bit instruction width
@@ -34,3 +34,21 @@ Quantra is a CPU that I built in the logic simulator [Turing Complete](https://t
 - An 160x120 pixel screen
 - A keyboard input to read keystrokes from my physical keyboard
 - A time component capable of reading 64-bit UNIX time in four 16-bit segments
+
+# Layout:
+![Quantra 16-bit CPU](/posts/quantra.png)
+1. Assembly component (this is the in-game code editor)
+2. Program counter
+3. Hazard detection circuit
+4. Console screen
+5. Pixel screen
+6. Keyboard component
+7. Instruction decoding
+8. Register file
+9. ALUs (One per pipeline)
+10. Execution control circuit (controls executing from RAM/Assembly component)
+11. Condition circuit
+12. RAM
+13. Miscallaneous I/O devices
+14. SSD
+15. File loader
