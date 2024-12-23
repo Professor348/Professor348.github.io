@@ -13,7 +13,7 @@
       <link>https://professor348.github.io/posts/quantra/</link>
       <pubDate>Sat, 21 Dec 2024 13:18:15 -0500</pubDate>
       <guid>https://professor348.github.io/posts/quantra/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;Quantra is a 16-bCPU that I built in the logic simulator &lt;a href=&#34;https://turingcomplete.game&#34;&gt;Turing Complete&lt;/a&gt;.&#xA;It is based on the Allegro architecture that the in-game levels teach you, but is heavily modified from this baseline.&lt;/p&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Quantra is a 16-bit CPU that I built in the logic simulator &lt;a href=&#34;https://turingcomplete.game&#34;&gt;Turing Complete&lt;/a&gt;.&#xA;It is based on the Allegro architecture that the in-game levels teach you, but is heavily modified from this baseline.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Documentation of Professor348.github.io</title>

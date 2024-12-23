@@ -6,10 +6,9 @@ draft = false
 
 ---
 
-Quantra is a 16-bCPU that I built in the logic simulator [Turing Complete](https://turingcomplete.game).
+Quantra is a 16-bit CPU that I built in the logic simulator [Turing Complete](https://turingcomplete.game).
 It is based on the Allegro architecture that the in-game levels teach you, but is heavily modified from this baseline.
 <!--more-->
-<br/>
 
 # Features:
 - 32-bit instruction width
