@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on DanTheCoder</title>
-    <link>https://professor348.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Index on DanTheCoder</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Dec 2024 13:18:15 -0500</lastBuildDate>
-    <atom:link href="https://professor348.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quantra - A Superscalar CPU in Turing Complete</title>
-      <link>https://professor348.github.io/posts/quantra/</link>
+      <link>http://localhost:1313/posts/quantra/</link>
       <pubDate>Sat, 21 Dec 2024 13:18:15 -0500</pubDate>
-      <guid>https://professor348.github.io/posts/quantra/</guid>
+      <guid>http://localhost:1313/posts/quantra/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;Quantra is a 16-bit CPU that I built in the logic simulator &lt;a href=&#34;https://turingcomplete.game&#34;&gt;Turing Complete&lt;/a&gt;.&#xA;It is based on the Allegro architecture that the in-game levels teach you, but is heavily modified from this baseline.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Documentation of Professor348.github.io</title>
-      <link>https://professor348.github.io/posts/website/</link>
+      <link>http://localhost:1313/posts/website/</link>
       <pubDate>Mon, 23 Sep 2024 16:21:40 -0400</pubDate>
-      <guid>https://professor348.github.io/posts/website/</guid>
-      <description>&lt;p&gt;This post&amp;rsquo;s purpose is to document the development of this website. as a sort of reference for me to look back on, and for other people to gain inspiration from in their own projects.&#xA;In it, you will find links to all the resources and softwares that I used to build and host this site.&#xA;In addition, you will find some of the external learning resources that I used throughout the development of this site.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/website/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;This post&amp;rsquo;s purpose is to document this website, as a sort of reference for me to look back on, and for other people to gain inspiration from in their own projects.&#xA;In it, you will find links to all the resources and softwares that I used to build and host this site.&#xA;In addition, you will find some of the external learning resources that I used throughout the development of this site.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://professor348.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 23 Sep 2024 16:19:40 -0400</pubDate>
-      <guid>https://professor348.github.io/about/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m DanTheCoder, also kown as Daniel! &lt;br&gt;&#xA;I live in the USA and am currently doing dual enrollment online with Liberty University.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;&#xA;&lt;p&gt;I enjoy a wide variety of activities, including but not limited to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reading (Fiction, Historical Fiction)&lt;/li&gt;&#xA;&lt;li&gt;Programming (Codingame.com, Khan Academy)&lt;/li&gt;&#xA;&lt;li&gt;Electronics (Arduinos, circuitry, etc.)&lt;/li&gt;&#xA;&lt;li&gt;PC Building (Only theoretical at this point)&lt;/li&gt;&#xA;&lt;li&gt;Cubing (Solving Rubix Cubes)&lt;/li&gt;&#xA;&lt;li&gt;Gaming (Minecraft, Trailmakers, World of Tanks)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m DanTheCoder, also known as DanTheGamer and Daniel!&#xA;&lt;br/&gt;&#xA;I live in the USA and am currently doing dual enrollment online with Liberty University.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;&#xA;&lt;p&gt;I enjoy a wide variety of activities, including but not limited to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reading (Mainly fiction books)&lt;/li&gt;&#xA;&lt;li&gt;Programming (Codingame.com, Khan Academy)&lt;/li&gt;&#xA;&lt;li&gt;Electronics (Arduinos, Digital logic simulators, etc.)&lt;/li&gt;&#xA;&lt;li&gt;PC Building (Only theoretical at this point)&lt;/li&gt;&#xA;&lt;li&gt;Solving Rubik&amp;rsquo;s Cubes&lt;/li&gt;&#xA;&lt;li&gt;Gaming (Modded Minecraft, Trailmakers, World of Tanks)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

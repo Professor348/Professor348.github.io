@@ -5,14 +5,15 @@ draft = false
 +++
 ---
 
-Hi, I'm DanTheCoder, also kown as Daniel! \
+Hi, I'm DanTheCoder, also known as DanTheGamer and Daniel!
+<br/>
 I live in the USA and am currently doing dual enrollment online with Liberty University.
 
 ## Hobbies
 I enjoy a wide variety of activities, including but not limited to:
-- Reading (Fiction, Historical Fiction)
+- Reading (Mainly fiction books)
 - Programming (Codingame.com, Khan Academy)
-- Electronics (Arduinos, circuitry, etc.)
+- Electronics (Arduinos, Digital logic simulators, etc.)
 - PC Building (Only theoretical at this point)
-- Cubing (Solving Rubix Cubes)
-- Gaming (Minecraft, Trailmakers, World of Tanks)
+- Solving Rubik's Cubes
+- Gaming (Modded Minecraft, Trailmakers, World of Tanks)

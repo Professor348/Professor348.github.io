@@ -36,7 +36,7 @@ It is based on the Allegro architecture that the in-game levels teach you, but i
 - A time component capable of reading 64-bit UNIX time in four 16-bit segments
 
 # Layout:
-![Quantra 16-bit CPU](/posts/quantra.png)
+![Quantra 16-bit CPU](/images/quantra.png)
 1. Assembly component (this is the in-game code editor)
 2. Program counter
 3. Hazard detection circuit

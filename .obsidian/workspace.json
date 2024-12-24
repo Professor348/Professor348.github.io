@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/quantra.md",
+                "file": "content/posts/website.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "quantra"
+              "title": "website"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/quantra.md",
+                "file": "content/posts/website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for quantra"
+              "title": "Backlinks for website"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/quantra.md",
+                "file": "content/posts/website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from quantra"
+              "title": "Outgoing links from website"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/quantra.md"
+                "file": "content/posts/website.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of quantra"
+              "title": "Outline of website"
             }
           }
         ]
@@ -164,10 +164,26 @@
   },
   "active": "9a59aff13bd6b9b3",
   "lastOpenFiles": [
-    "content/posts/website.md",
-    "content/posts/robot-arm.md",
     "content/posts/quantra.md",
-    "content/images/quantra.png",
-    "archetypes/default.md"
+    "content/posts/website.md",
+    "content/about.md",
+    "content/_index.md",
+    "archetypes/default.md",
+    "public/tags/index.xml",
+    "public/posts/index.xml",
+    "public/categories/index.xml",
+    "public/index.xml",
+    "public/page/1/index.html",
+    "public/page/1",
+    "public/page",
+    "public/index.html",
+    "public/posts/quantra/index.html",
+    "public/posts/website/index.html",
+    "public/images/quantra.png",
+    "public/fonts/roboto-mono-v12-latin-regular.svg",
+    "public/fonts/ibm-plex-mono-v6-latin-500italic.svg",
+    "public/fonts/fira-sans-v10-latin-regular.svg",
+    "content/posts/robot-arm.md",
+    "static/images/quantra.png"
   ]
 }
