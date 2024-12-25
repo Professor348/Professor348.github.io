@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/website.md",
+                "file": "content/posts/quantra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "website"
+              "title": "quantra"
             }
           }
         ]
@@ -164,11 +164,21 @@
   },
   "active": "9a59aff13bd6b9b3",
   "lastOpenFiles": [
+    "public/fonts/roboto-mono-v12-latin-regular.svg",
+    "public/fonts/ibm-plex-mono-v6-latin-500italic.svg",
+    "public/fonts/fira-sans-v10-latin-regular.svg",
     "content/posts/quantra.md",
     "content/posts/website.md",
-    "content/about.md",
-    "content/_index.md",
+    "themes/archie-solarized/README.md",
+    "themes/archie-solarized/exampleSite/content/about.md",
+    "themes/archie-solarized/exampleSite/content/archives.md",
+    "themes/archie-solarized/images/tn.png",
+    "themes/archie-solarized/images/theme.png",
+    "themes/archie-solarized/images/screenshot.png",
+    "themes/archie-solarized/images/archie-dark.png",
     "archetypes/default.md",
+    "content/_index.md",
+    "content/about.md",
     "public/tags/index.xml",
     "public/posts/index.xml",
     "public/categories/index.xml",
@@ -180,9 +190,6 @@
     "public/posts/quantra/index.html",
     "public/posts/website/index.html",
     "public/images/quantra.png",
-    "public/fonts/roboto-mono-v12-latin-regular.svg",
-    "public/fonts/ibm-plex-mono-v6-latin-500italic.svg",
-    "public/fonts/fira-sans-v10-latin-regular.svg",
     "content/posts/robot-arm.md",
     "static/images/quantra.png"
   ]

@@ -5,9 +5,11 @@ draft = false
 +++
 ---
 
-Hi, I'm DanTheCoder, also known as DanTheGamer and Daniel!
+Hi, I'm DanTheCoder, also known as DanTheGamer or Daniel!
 <br/>
 I live in the USA and am currently doing dual enrollment online with Liberty University.
+<br/>
+I attend [Grace Bible Chapel (GBC)](https://gracebiblechapel.org) and am homeschooled.
 
 ## Hobbies
 I enjoy a wide variety of activities, including but not limited to:
